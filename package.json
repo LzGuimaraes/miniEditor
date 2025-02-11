@@ -1,0 +1,22 @@
+{
+  "name": "minieditor",
+  "version": "1.0.0",
+  "description": "Mini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LzGuimaraes/miniEditor.git"
+  },
+  "author": "Luiz Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LzGuimaraes/miniEditor/issues"
+  },
+  "homepage": "https://github.com/LzGuimaraes/miniEditor#readme",
+  "devDependencies": {
+    "electron": "^34.1.1"
+  }
+}
